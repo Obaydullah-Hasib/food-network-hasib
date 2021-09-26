@@ -59,9 +59,9 @@ h2{
 }
 .recipe{
     
-   
-    margin-left: 5%;
-    margin-right: 5%;
+   width: fit-content;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-top: 2%;
     box-shadow: 10px 10px 20px salmon;
     border-radius: 20px;
@@ -88,12 +88,12 @@ h2{
 .statistics{
     
     border: seashell;
-    
+    text-align: center;
     box-shadow: 10px 15px 30px turquoise;
     margin-top: 50px;
-    padding-left: 10%;
-    margin-left: 5%;
-    margin-right: 5%;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-top: 10%;
     border-radius: 20px;
     border: solid;
