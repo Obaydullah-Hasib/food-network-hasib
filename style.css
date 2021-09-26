@@ -21,6 +21,7 @@ section{
 }
 h1{
     font-size: 60px;
+    color: black;
 }
 .pizza{
     color: tomato;
@@ -36,4 +37,19 @@ h1{
 }
 p{
     font-size: 18px;
+    font-weight: 600;
+}
+.second-banner{
+    background-image: linear-gradient(to left,rgb(255, 255, 255),black)
+    
+
+}
+.button2{
+
+    margin: 10px;margin-bottom: 20px; padding: 10px; border-radius: 5px;
+}
+h2{
+    margin-top: 20px;
+    color: rgb(79, 86, 87);
+    text-align: center;
 }
